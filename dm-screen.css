@@ -125,6 +125,7 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 }
 
 .gs-title {
+	background: #1b9af0;
 	font-size: 18px;
 	font-family: Roboto Condensed,Roboto,Helvetica,sans-serif;
 }
