@@ -128,7 +128,7 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 	background: #1b9af0;
 	font-size: 18px;
 	font-family: Roboto Condensed,Roboto,Helvetica,sans-serif;
-	margin-left: 4px;
+	padding-left: 4px;
 }
 
 .gs-header {
