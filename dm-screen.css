@@ -586,3 +586,7 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 .cls-j {
 	stroke-miterlimit:10;
 }
+
+.ct-health-summary__hp {
+display: none;
+}
