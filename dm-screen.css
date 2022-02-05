@@ -457,7 +457,7 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 .gs-main-saves {
 	/*! min-width: 200px; */
 	/*! max-width: 250px; */
-	min-height: 180px;
+	min-height: 180px !important;
 	
 }
 
