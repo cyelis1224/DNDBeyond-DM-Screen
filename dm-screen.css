@@ -31,7 +31,16 @@
 }
 
 .ddb-campaigns-character-card-footer{
+	width: 498px;
 	padding: 0 10px;
+}
+
+.ddb-campaigns-character-card-footer-links{
+	color: white;
+}
+
+.ddb-campaigns-character-card::after{
+	width: 500px !important;
 }
 
 .gs-box-background .ddbc-svg {
